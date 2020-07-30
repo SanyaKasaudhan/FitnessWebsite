@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Red Dragon MMA Academy.</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+   <link rel="stylesheet" href="https://reddragonindia.co.in/gallery-clean.css">
+   <link rel="stylesheet" href="https://reddragonindia.co.in/gallery-grid.css">
+   <link rel="stylesheet" href="https://reddragonindia.co.in/thumbnail-gallery.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+  <link rel="stylesheet" href="https://www.reddragonindia.co.in/main.css">
+  <link rel="stylesheet" href="https://www.reddragonindia.co.in/cls.css">
+  <link rel="stylesheet" href="https://www.reddragonindia.co.in/fut.css">
+  <link rel="stylesheet" href="https://www.reddragonindia.co.in/contact.css">
+<link rel="stylesheet" href="https://www.reddragonindia.co.in/side.css">
+  <link rel="icon" href="https://www.reddragonindia.co.in/logo-main.png" type="image/gif/png">
+</head>
+<body>
+
+
+
+<!-- NavBar -->
+
+  <nav id="navbarhide" class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+	  <a class="navbar-brand logo" href="https://www.reddragonindia.co.in"><img src="https://www.reddragonindia.co.in/logo-main.png"></a>
+      <a class="navbar-brand" href="https://www.reddragonindia.co.in">RED DRAGON MMA ACADEMY</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="https://www.reddragonindia.co.in">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Gallery <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="https://www.reddragonindia.co.in/imagegallery">Photo Gallery</a></li>
+            <li><a href="https://www.reddragonindia.co.in/videogallery">Video Gallery</a></li>
+          </ul>
+        </li>
+        <li><a href="https://www.reddragonindia.co.in/#classes">Classes</a></li>
+		<li><a href="https://www.reddragonindia.co.in/aboutus">About</a></li>
+        <li><a href="https://www.reddragonindia.co.in/#enquiry">Contact-us</a></li>
+      </ul>
+    
+    </div>
+  </div>
+</nav>
+
+ <hr>
+ <!-- Header container-->
+ 
+<div class="container-fluid">
+
+ 
+    <div class="row">
+	   <div class="col-xs-12"><h1 class="text-center head_1"> RED DRAGON MIXED MARTIAL ARTS ACADEMY.</h1></div>
+	   <div class="col-xs-12"><h2 class="text-center head_2"> Classes We Offer .....</h2></div>
+    </div>
+	
+	<hr>
+	
+    <div class="row">
+	 
+  <div class="col-sm-4">
+    <div class="thumbnail">
+      <img class="classes_img" src="https://www.reddragonindia.co.in/tkd-logo.jpg" alt="Nature">
+    </div>
+	<div class="caption">
+      <a class="btn btn-primary btn-primary-mod" href="https://www.reddragonindia.co.in/taekwondo">Taekwondo</a>
+    </div>
+  </div>
+  
+  <div class="col-sm-4">
+    <div class="thumbnail">
+        <img class="classes_img" src="https://www.reddragonindia.co.in/kickboxing-logo.jpg" alt="Nature">
+    </div>
+	<div class="caption">
+       <a class="btn btn-primary btn-primary-mod" href="https://www.reddragonindia.co.in/kickboxing">Kick-Boxing</a>
+    </div>
+  </div>
+  
+  <div class="col-sm-4">
+    <div class="thumbnail">
+      <img class="classes_img" src="https://www.reddragonindia.co.in/mma.jpg" alt="Nature">
+    </div>
+	<div class="caption">
+      <a class="btn btn-primary btn-primary-mod" href="https://www.reddragonindia.co.in/mixedmartialarts">Mixed Martial Arts</a>
+    </div>
+  </div>
+  
+</div>
+
+  </div>
+  
+<!-- Header container ENDS-->
+
+<hr>
+
+ <!-- Instructor-->
+ 
+ <div class="container-fluid">
+ 
+    <div class="row">
+	   <div class="col-xs-12"><h1 class="text-center head_2"> All about Instructor and Trainer.</h1></div>
+	   
+    </div>
+	
+	<hr>
+	
+	<div class="row">
+    <div class="col-sm-4 text-center instruct_div">
+      <div class="trainer">
+	    <img class="img-rounded" src="https://www.reddragonindia.co.in/sir.jpg" class="img-responsive"> 
+	  </div>
+       <h4 class="instruct_h"><span class="glyphicon glyphicon-asterisk"></span>Avinash Pandey</h4>
+       <h4 class="instruct_h"><span class="glyphicon glyphicon-asterisk"></span>Certified from TFI(Taekwondo Federatin of India)</h4>
+       <h4 class="instruct_h"><span class="glyphicon glyphicon-asterisk"></span>Black Belt(4th Dan)</h4>
+       <h4 class="instruct_h"><span class="glyphicon glyphicon-asterisk"></span>Trained under WTF(World Taekwondo Federation)</h4>		   
+    </div>
+    <div class="col-sm-8">
+              <h2 class="text-center head_2">Shihan Avinash Pandey</h2>
+              <span class="text-center">(President and Founder)</span>
+   <br>
+   <br>
+        <p>He is the Shihan (Cheif Instructor) of our institute. With experience in training in the field of contact sports of over 8+ years, he has achieved many milestones and learnt alot of  different priciples of fighting techniques.
+<br>
+He started his journey into the field of martial arts at the of 14 yrs. While he was in school, he went through some expiriences which made him realise that how impportant is it to take care of one's fitness and to be athletic if not combat ready at the same time.
+<br>
+So at the mere age of 14 he joined a local gym in his hometown where he first got a taste of modern taekwondo. It was really hard for a common with normal dreams to have such a high ambition in life, but he plouged right htrough those hardships and gained the status of a Shihan.
+<br>
+In the meantime, he also gained knowledge and excellence in other fighting techniques like kickboxing, boxing and mma.
+<br>
+<br>
+
+He has participated in alot of Taekwondo competitions like:
+<br>
+<ul>
+  <li>Delhi State Taekwondo Championship 2012</li>
+  <li>Open National Championship Darjeeling 2013</li>
+  <li>JKD Delhi 2013</li>
+  <li>JKD Bombay 2014</li>
+</ul>
+<br>
+
+He is known for his decorous behavior that is the salient feature of his success. His institutions look like a flower filled garden for the student. He easily creates an environment with enthusiasm that's become easy for student to learn martial arts. During the training session he is very strict, punctual & hard working. He always feels, it is an onerous task to make his students champion & he proved it, so many times. He has practical and easy way to teach the skills. He always co-operates to promote martial arts.
+<br>
+
+His training method is completely different from the conventional martial arts gurus.
+He believes in compassion and always pushes his students to go one step beyond their thresholds in order to increase their overall ability so that they can gain in a wholesome.
+His ideals in the field include B.A.Gong Sir (who is also his mentor in the field of taekwondo), Leung Bik(Ip Man's son), Ip Man(Bruce lee's Master), Bruce Lee, Jackie Chan and any other great personalities.
+<br>
+<br>
+Many of our students have reached state and national level of excellence in the field of taekwondo like:
+<br>
+<br>
+
+<ul>
+  <li>Amritansh(State level)</li>
+  <li>Anand (State level)</li>
+  <li>Kanishka (State level)</li>
+  <li>Shubham (State level)</li>
+  <li>Ananta (State level)</li>
+  <li>Taman (State level)</li>
+</ul>
+
+<br>
+Now his goal is to create more future champions and martial artists with his knowlodge and extreme dedication. Each day he teaches someone a new technique who goes out in life and uses it not only for defense purpose but also to have a better lifestyle where discipline and devotion is the main motive.
+<br>
+<br>
+Join his journey.
+<br>
+
+Reach towards excellence.
+</p>
+    </div>
+  </div>
+    
+  
+ 
+ </div>
+
+
+<!-- Instructor Ends-->
+
+<!-- Classes-->
+<hr>
+<div class="container-fluid" id="classes">
+    <div class="row">
+	   <div class="col-xs-12"><h1 class="text-center head_2"> Classes Details</h1></div> 
+    </div>
+<hr>
+<div id="generic_price_table">   
+<section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <!--PRICE HEADING START-->
+                    <div class="price-heading clearfix">
+                        <h1><!--Bootstrap Pricing Table--></h1>
+                    </div>
+                    <!--//PRICE HEADING END-->
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            
+            <!--BLOCK ROW START-->
+            <div class="row">
+                <div class="col-md-4">
+                
+                	<!--PRICE CONTENT START-->
+                    <div class="generic_content clearfix">
+                        
+                        <!--HEAD PRICE DETAIL START-->
+                        <div class="generic_head_price clearfix">
+                        
+                            <!--HEAD CONTENT START-->
+                            <div class="generic_head_content clearfix">
+                            
+                            	<!--HEAD START-->
+                                <div class="head_bg"></div>
+                                <div class="head">
+                                    <span>Demo Classes</span>
+                                </div>
+                                <!--//HEAD END-->
+                                
+                            </div>
+                            <!--//HEAD CONTENT END-->
+                            
+                            <!--PRICE START-->
+                              <div class="generic_price_tag clearfix">	
+                                <span class="price">
+                                    <span class="sign">Rs</span>
+                                    <span class="currency">200</span>
+                         <!--       <span class="cent">.99</span>  -->
+                                    <span class="month">/One Class</span>
+                                </span>
+                            </div>
+							
+                            <!--//PRICE END-->
+                            
+                        </div>                            
+                        <!--//HEAD PRICE DETAIL END-->
+                        
+                        <!--FEATURE LIST START-->
+                        <div class="generic_feature_list">
+                        	<ul>
+                            	<li><span>Age</span> 6+ years old</li>
+								<li><span>Classes Available </span> MON-SAT</li>
+                                <li><span>Class Duration </span> 1 hours</li>
+								<li><span>Morning Slots </span> 6am-10am</li>
+                                <li><span>Evening Slots </span> 5pm-9pm</li>
+                            </ul>
+                        </div>
+                        <!--//FEATURE LIST END-->
+                        
+                        <!--BUTTON START-->
+                        <div class="generic_price_btn clearfix">
+                        <!--	<a class="" href="">Sign up</a> -->
+                        </div>
+                        <!--//BUTTON END-->
+                        
+                    </div>
+                    <!--//PRICE CONTENT END-->
+                        
+                </div>
+                
+                <div class="col-md-4">
+                
+                	<!--PRICE CONTENT START-->
+                    <div class="generic_content active clearfix">
+                        
+                        <!--HEAD PRICE DETAIL START-->
+                        <div class="generic_head_price clearfix">
+                        
+                            <!--HEAD CONTENT START-->
+                            <div class="generic_head_content clearfix">
+                            
+                            	<!--HEAD START-->
+                                <div class="head_bg"></div>
+                                <div class="head">
+                                    <span>Senior's Classes</span>
+                                </div>
+                                <!--//HEAD END-->
+                                
+                            </div>
+                            <!--//HEAD CONTENT END-->
+                            
+                            <!--PRICE START-->
+                            <div class="generic_price_tag clearfix">	
+                                <span class="price">
+                                    <span class="sign">Fee/</span> 
+                                    <span class="currency">Cantact</span>
+                               <!--     <span class="cent">.99</span> -->
+                               <!--     <span class="month">/MONTH</span> -->
+                                </span>
+                            </div>
+                            <!--//PRICE END-->
+                            
+                        </div>                            
+                        <!--//HEAD PRICE DETAIL END-->
+                        
+                        <!--FEATURE LIST START-->
+                        <div class="generic_feature_list">
+                        	<ul>
+                            	<li><span>Age</span> 15+ years old</li>
+								<li><span>Classes Available </span> MON-SAT</li>
+								<li><span>Class Duration </span> 1 hours</li>
+								<li><span>Morning Slots </span> 6am-10am</li>
+                                <li><span>Evening Slots </span> 5pm-9pm</li>
+                            </ul>
+                        </div>
+                        <!--//FEATURE LIST END-->
+                        
+                        <!--BUTTON START-->
+                        <div class="generic_price_btn clearfix">
+                         <!--	<a class="" href="">Sign up</a> -->
+                        </div>
+                        <!--//BUTTON END-->
+                        
+                    </div>
+                    <!--//PRICE CONTENT END-->
+                        
+                </div>
+                <div class="col-md-4">
+                
+                	<!--PRICE CONTENT START-->
+                    <div class="generic_content clearfix">
+                        
+                        <!--HEAD PRICE DETAIL START-->
+                        <div class="generic_head_price clearfix">
+                        
+                            <!--HEAD CONTENT START-->
+                            <div class="generic_head_content clearfix">
+                            
+                            	<!--HEAD START-->
+                                <div class="head_bg"></div>
+                                <div class="head">
+                                    <span>Junior's Classes</span>
+                                </div>
+                                <!--//HEAD END-->
+                                
+                            </div>
+                            <!--//HEAD CONTENT END-->
+                            
+                            <!--PRICE START-->
+                            <div class="generic_price_tag clearfix">	
+                                <span class="price">
+                                    <span class="sign">Fee/</span> 
+                                    <span class="currency">Cantact</span>
+                               <!--     <span class="cent">.99</span> -->
+                               <!--   <span class="month">/MONTH</span> -->
+                                </span>
+                            </div>
+                            <!--//PRICE END-->
+                            
+                        </div>                            
+                        <!--//HEAD PRICE DETAIL END-->
+                        
+                        <!--FEATURE LIST START-->
+                        <div class="generic_feature_list">
+                        	<ul>
+                            	<li><span>Age</span> 6 to 14 years old</li>
+								<li><span>Classes Available </span> MON-SAT</li>
+								<li><span>Class Duration </span> 1 hours</li>
+								<li><span>Morning Slots </span> 6am-10am</li>
+                                <li><span>Evening Slots </span> 5pm-9pm</li>
+                            </ul>
+                        </div>
+                        <!--//FEATURE LIST END-->
+                        
+                        <!--BUTTON START-->
+                        <div class="generic_price_btn clearfix">
+                        	<!--	<a class="" href="">Sign up</a> -->
+                        </div>
+                        <!--//BUTTON END-->
+                        
+                    </div>
+                    <!--//PRICE CONTENT END-->
+                        
+                </div>
+            </div>	
+            <!--//BLOCK ROW END-->
+            
+        </div>
+    </section>            
+</div>
+</div>
+
+<!-- Classes ENDS -->
+
+
+<!-- contact-form -->
+<hr>
+
+    
+  <div class="container-fluid" id="enquiry">
+  
+    <div class="row">
+	   <div class="col-xs-12"><h1 class="text-center head_2"> Any Query Do Write Us...</h1></div> 
+    </div>
+	
+  <hr>
+ <div class="contact_div" id="request">
+
+  <form class="form cf" method="post" action="">
+   <div class="half left cf">
+    <input type="text" name="name" id="input-name" placeholder="Name" value="" required>
+    <input type="email" name="email" id="input-email" placeholder="Email address" value="" required>
+    <input type="text" name="number" id="input-subject" placeholder="Contact No:" value="" required>
+   </div>
+  <div class="half right cf">
+    <textarea name="message" type="text" class="message" id="input-message" placeholder="Message" value=""></textarea>
+  </div>  
+  <div>
+  <input type="submit" name="submit" value="Submit" id="input-submit">
+  </div>
+ </form>
+ </div>
+</div>
+
+
+
+
+<!-- MAP and Address -->
+
+
+<hr>
+
+    
+  <div class="container-fluid">
+  
+    <div class="row">
+	   <div class="col-xs-12"><h1 class="text-center head_2"> Reach Us</h1></div> 
+    </div>
+	
+  <hr>
+  
+   <div class="row">
+    <div class="col-sm-4 text-center sm-4-color">
+	   <h4 class="instruct_h_address"><span class="glyphicon glyphicon-map-marker"></span></h4>
+       <h4 class="instruct_h_address">4/433 Sector-4,</h4>
+	   <h4 class="instruct_h_address">Vaishali, Ghaziabad,</h4>
+       <h4 class="instruct_h_address">U.P., India,</h4>
+       <h4 class="instruct_h_address">201010.</h4>
+      
+	   <h4 class="instruct_h_contact"><i style="color:#5f97f9"; class="fa fa-phone" aria-hidden="true"></i> +91 9891652759</h4>
+	   <h4 class="instruct_h_contact"><i style="color:#5f97f9"; class="fa fa-phone" aria-hidden="true"></i> +91 7011464556</h4>
+	   <h4 class="instruct_h_contact"><i style="color:#5f97f9"; class="fa fa-envelope" aria-hidden="true"></i> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2d4c4e4c49484054035f4849495f4c4a4243444349444c6d4a404c4441034e4240">[email&#160;protected]</a></h4>
+	 
+    </div>
+    <div class="col-sm-8">
+	  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.3291548612183!2d77.34088721468068!3d28.649861482410973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfadb26ed4039%3A0x1d87d29c96ab8fd7!2sRed+Dragon+School+Of+Martial+Arts!5e0!3m2!1sen!2sin!4v1522437919285" width="100%" height="342px" frameborder="0" style="border:0" allowfullscreen></iframe>
+   
+    </div>
+   </div>
+  </div>
+ 
+  <!-- MAP and Address Ends -->
+
+  <hr>
+ 
+ 
+ <!-- footer -->
+  
+  <footer id="footer">
+    <!-- Row -->
+			<div class="row">
+        <div class="col-md-12">
+           <!-- footer logo -->
+					<div class="footer-logo">
+						<a href="#"><img src="https://www.reddragonindia.co.in/logo-main.png" alt="logo"></a>
+					</div>
+					<div col-md-12"><h5 class="text-center white">Affilated to Taekwondo Federation of India.</h5></div>
+					
+					<!-- /footer logo -->
+					<!-- footer follow -->
+					<ul class="footer-follow">
+						<li><a href="https://www.facebook.com/academy.reddragonindia/"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="https://www.instagram.com/reddragonindia"><i class="fa fa-instagram"></i></a></li>
+						<li><a href="https://www.linkedin.com/company/reddragonndia/"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://www.youtube.com/channel/UC_Jj_RuwxtLYyDfcRbJt__A"><i class="fa fa-youtube"></i></a></li>
+					</ul>
+					<!-- /footer follow -->
+					<!-- footer copyright -->
+					<div class="footer-copyright">
+						<p>Copyright © 2019. All Rights Reserved. <a href="http://appnexa.ml/" target="_blank">AppNexa</a></p>
+					</div>
+					<!-- /footer copyright -->
+				</div>
+			</div>
+			<!-- /Row -->
+		
+		<!-- /Container -->
+	</footer>
+ 
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

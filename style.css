@@ -55,3 +55,26 @@ nav .fa-bars{
 {
     padding: 20px 10px;
 }
+#about h3{
+    margin: 20px auto;
+}
+
+/*-----------Service--------*/
+#services{
+    background-color: #efefef;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+#services .col-md-4{
+    padding: 20px;
+}
+#services .col-md-4 h4{
+padding: 5px;
+}
+#services .col-md-4 img{
+    width: 50px;
+ }
+ #services .col-md-4 h4{
+        padding: 5px;
+        text-align: justify;
+        }
