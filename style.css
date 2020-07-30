@@ -72,9 +72,22 @@ nav .fa-bars{
 padding: 5px;
 }
 #services .col-md-4 img{
-    width: 50px;
+    width: 250px;
+    height: 200px;
  }
  #services .col-md-4 h4{
         padding: 5px;
         text-align: justify;
         }
+
+/* ----------- Features ----------- */
+#features{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: linear-gradient(rgba(0, 0, 0, 0.8)),url();
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+#features .col-md-4
