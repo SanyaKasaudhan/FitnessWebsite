@@ -3,12 +3,35 @@
     margin: 0;
 }
 #header{
-    background-image: url('./bg.jpg');
+    background-image: url('./gym.jpeg');
     background-size: cover;
     box-sizing: border-box;
     height: 80vh;
 }
 .navbar-nav li a{
     float: right;
-    color: #fff!important;
+    color: black!important;
+}
+.navbar-brand img{
+    width: 150px;
+    margin-left: 30px;
+}
+.navbar-toggler{
+    border: none !important;
+    outline: none !important;
+}
+nav .fa-bars{
+    color: black;
+    font-size: 26px;
+}
+
+/*-------- Welcome text ************/
+.welcome{
+    padding: 50px 100px;
+    margin-top: -140px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+}
+.welcome h1{
+    
 }
