@@ -226,3 +226,13 @@ padding: 5px;
     font-size: 12px;
     text-align: left;
 }
+#footer .city{
+    margin-left: 37px;
+}
+#footer .fa{
+    padding-left: 20px;
+}
+#footer .copyright{
+margin-bottom: -80px;
+text-align: center;
+}
